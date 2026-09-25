@@ -1,2 +1,3 @@
-# Musica-moderna
-En este repositorio podrás encontrar algunas de mis canciones favoritas con genero de todo tipo en las cuales nunca faltará la buena música, disfutenlo.😎
+# IA con estilo 😎
+En este repositorio podrás encontrar algunas de mis tareas de la UCA IA, lo importante es hacer el intento aunque no salga perfecto...😎
+(esperemos algún día nos salga mejor)
