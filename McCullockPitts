@@ -1,14 +1,1 @@
-import numpy as np
-# Entradas para la neurona
-X = np.array([
-    [0, 0],
-    [0, 1],
-    [1, 0],
-    [1, 1]
-])
-# Salidas
-Y = np.array([0, 0, 0, 1])
-# Pesos para las entradas
-W = [1, 1]
-# Umbral para la función de activación
-umbral = 2 
+
